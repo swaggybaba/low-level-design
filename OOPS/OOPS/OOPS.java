@@ -1,9 +1,5 @@
 package OOPS;
-/*
-  
-  
-  
- */
+
 abstract class Vehicle {
 	private double speed;
 	private double cc;
