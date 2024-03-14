@@ -1,7 +1,5 @@
 package Model;
 
-import Piece.PlayingPiece;
-
 public class Player {
 	String name;
 	PlayingPiece playingPiece;

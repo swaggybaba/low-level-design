@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="FactoryPattern"/>
+	<classpathentry kind="src" path="OOPS"/>
+	<classpathentry kind="src" path="StrategyPattern"/>
+	<classpathentry kind="src" path="SingletonPattern"/>
+	<classpathentry kind="src" path="AbstractFactory"/>
+	<classpathentry kind="src" path="HandleNullObject"/>
+	<classpathentry kind="src" path="FileSystemCompositePattern"/>
+	<classpathentry kind="src" path="ObserverPattern"/>
+	<classpathentry kind="src" path="ProxyPattern"/>
+	<classpathentry kind="src" path="ChainOfResponsibility"/>
+	<classpathentry kind="src" path="SnakeAndLadder"/>
+	<classpathentry kind="src" path="BuilderPattern"/>
+	<classpathentry kind="src" path="PrototypePattern"/>
+	<classpathentry kind="src" path="DeckOfCards"/>
+	<classpathentry kind="src" path="TicTacToe"/>
+	<classpathentry kind="src" path="DecoratorPattern"/>
+	<classpathentry kind="src" path="ATM"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

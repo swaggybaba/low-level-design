@@ -1,4 +1,4 @@
-package Piece;
+package Model;
 
 public class PieceO extends PlayingPiece {
 
